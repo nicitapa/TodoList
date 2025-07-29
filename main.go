@@ -5,8 +5,9 @@ func main() {
 	AddEntities()
 
 }
-create a new branch
 
-add to git
+//create a new branch
 
-send for review
+//add to git
+
+//send for review
